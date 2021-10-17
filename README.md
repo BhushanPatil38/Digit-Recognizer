@@ -1,3 +1,5 @@
+Dataset - https://www.kaggle.com/c/digit-recognizer/data
+
 # Digit-Recognizer
 
 ### Here we focus on identifying handwriting images via CNN. The CNN architecture used is  -
